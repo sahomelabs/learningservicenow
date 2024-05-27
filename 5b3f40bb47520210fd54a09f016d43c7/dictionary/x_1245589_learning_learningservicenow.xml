@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="fa9f0cbb47520210fd54a09f016d437c" label="learningservicenow" max_length="40" name="x_1245589_learning_learningservicenow" type="collection">
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Testservicenow" max_length="40" name="testservicenow" type="boolean"/>
+    </element>
+</database>

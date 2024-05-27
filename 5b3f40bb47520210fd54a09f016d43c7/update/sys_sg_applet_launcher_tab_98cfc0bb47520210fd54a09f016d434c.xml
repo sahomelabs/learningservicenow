@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_tab">
+    <sys_sg_applet_launcher_tab action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applet_launcher display_value="learningservicenow">58cfc0bb47520210fd54a09f016d434b</applet_launcher>
+        <icon display_value="Home learningservicenow">d8cfc0bb47520210fd54a09f016d434c</icon>
+        <label>learningservicenow</label>
+        <sys_class_name>sys_sg_applet_launcher_tab</sys_class_name>
+        <sys_created_by>dandev</sys_created_by>
+        <sys_created_on>2024-05-27 17:35:00</sys_created_on>
+        <sys_id>98cfc0bb47520210fd54a09f016d434c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>learningservicenow</sys_name>
+        <sys_package display_value="learningservicenow" source="x_1245589_learning">5b3f40bb47520210fd54a09f016d43c7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="learningservicenow">5b3f40bb47520210fd54a09f016d43c7</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_tab_98cfc0bb47520210fd54a09f016d434c</sys_update_name>
+        <sys_updated_by>dandev</sys_updated_by>
+        <sys_updated_on>2024-05-27 17:35:00</sys_updated_on>
+    </sys_sg_applet_launcher_tab>
+</record_update>
